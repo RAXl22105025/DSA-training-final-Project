@@ -40,8 +40,14 @@ Data remains saved permanently
 0. Exit
 
 #Sample Output
+
+
 Enter student name: Rahul
+
+
 Enter student ID: 101
+
+
 Enter semester fee: 50000
 
 Payment status updated for student ID 101
