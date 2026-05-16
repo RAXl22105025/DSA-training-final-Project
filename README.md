@@ -38,6 +38,7 @@ Data remains saved permanently
 8. Display All Students
 9. Delete Student Record
 0. Exit
+
 #Sample Output
 Enter student name: Rahul
 Enter student ID: 101
@@ -51,12 +52,16 @@ Arrays
 Functions
 Conditional Statements
 Loops
+
 #Future Improvements
 Add login system
 Add GUI interface
 Use database integration
 Add semester-wise fee tracking
 Add receipt PDF generation
+
+
+
 #Team Members
 Subhranil Mallic
 Mohammad Muflehoon Alam
