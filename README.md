@@ -63,10 +63,10 @@ Add receipt PDF generation
 
 
 #Team Members
-Subhranil Mallic
-Mohammad Muflehoon Alam
-Sucharita Kundu
-Soumaya Bhowmik
+Subhranil Mallic,
+Mohammad Muflehoon Alam,
+Sucharita Kundu,
+Soumaya Bhowmik,
 Ashutosh Kumar Singh
 
 License
