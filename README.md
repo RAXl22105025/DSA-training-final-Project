@@ -51,28 +51,46 @@ Enter student ID: 101
 Enter semester fee: 50000
 
 Payment status updated for student ID 101
-Concepts Used
+
+
+#Concepts Used
+
 Structures in C
+
 File Handling
+
 Arrays
+
 Functions
+
 Conditional Statements
+
 Loops
 
 #Future Improvements
+
 Add login system
+
 Add GUI interface
+
 Use database integration
+
 Add semester-wise fee tracking
+
 Add receipt PDF generation
 
 
 
 #Team Members
-Subhranil Mallic,
-Mohammad Muflehoon Alam,
-Sucharita Kundu,
-Soumaya Bhowmik,
+
+Subhranil Mallick
+
+Mohammad Muflehoon Alam
+
+Sucharita Kundu
+
+Soumaya Bhowmik
+
 Ashutosh Kumar Singh
 
 License
