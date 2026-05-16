@@ -2,7 +2,7 @@
 
 # 🎓 DSA-Training-Final-Project
 
-# 💳 Student Fee Management System
+# 💳 Student Semester Fees Management System
 
 <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Project-DSA-green?style=for-the-badge">
@@ -15,7 +15,7 @@
 
 # 📖 About The Project
 
-A simple and beginner-friendly **Student Fee Management System** developed using **C Programming Language**.
+A simple and beginner-friendly **Student Semester Fees Management System** developed using **C Programming Language**.
 
 This project uses:
 
